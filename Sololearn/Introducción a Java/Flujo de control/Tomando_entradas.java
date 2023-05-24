@@ -28,6 +28,5 @@ class Tomando_entradas {
                 }
             }
          */
-
     }
 }
