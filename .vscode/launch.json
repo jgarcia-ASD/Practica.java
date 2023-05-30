@@ -1,0 +1,35 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Celsisus_Fanhrenheit",
+            "request": "launch",
+            "mainClass": "Celsisus_Fanhrenheit",
+            "projectName": "Practica.java_7a197b41"
+        },
+        {
+            "type": "java",
+            "name": "devolviendoDeLosMetodos",
+            "request": "launch",
+            "mainClass": "devolviendoDeLosMetodos",
+            "projectName": "Practica.java_7a197b41"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "parametrosmetodo_Cc",
+            "request": "launch",
+            "mainClass": "parametrosmetodo_Cc",
+            "projectName": "Practica.java_7a197b41"
+        }
+    ]
+}
