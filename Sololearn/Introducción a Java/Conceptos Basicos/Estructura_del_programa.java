@@ -1,3 +1,5 @@
+
+
 //en Java, cada línea de código que pueda ejecutarse realmente tiene que estar dentro de una clase (class)
 public class Estructura_del_programa {
     //El metodo main contiene el codigo que se ejecuta cuando ejecutamos nuestro progeana, el metodo println se ejecutara, cuando ejecutemos nuestro programa
